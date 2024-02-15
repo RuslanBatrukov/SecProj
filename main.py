@@ -16,4 +16,4 @@ for c in text:
         print(temp, end='')
 
 '''Ya togo rot'''
-'''Ya togo rot'''
+'''Ya togo rot''''''Ya togo rot'''
