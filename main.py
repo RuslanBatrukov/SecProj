@@ -14,3 +14,5 @@ for c in text:
         temp = char[(char.find(c.upper()) + step) % len(char)]
         if c.islower(): temp = temp.lower()
         print(temp, end='')
+
+'''Ya togo rot'''
